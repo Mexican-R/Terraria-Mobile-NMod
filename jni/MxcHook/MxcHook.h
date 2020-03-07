@@ -1,0 +1,20 @@
+#ifndef MXCHOOK_H
+#define MXCHOOK_H
+#include <stdio.h>
+#include <android/log.h>
+#include <errno.h>
+#include <unistd.h>
+#include <sys/mman.h>
+#include <string.h>
+#include <stdlib.h>
+#include <sys/ptrace.h>
+#include <stdbool.h>
+#include <dlfcn.h>
+#include <unistd.h>
+#include <map>
+#include <vector>
+#include <sys/mman.h>
+#include <sstream>
+#include <jni.h>
+#include "../InlineHook/InlineHook.hpp"
+#endif
