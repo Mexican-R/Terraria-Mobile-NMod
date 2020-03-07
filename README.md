@@ -9,3 +9,7 @@ Terraria mobile native mod
 ## Learn more about Native Mod
 
 * https://github.com/byteandahalf/MCPE-NativeMods/wiki
+
+## QQ group
+
+* 749720883
