@@ -1,6 +1,6 @@
 # Terraria-Mobile-NMod
 
-Terraria mobile mod
+Terraria mobile native mod
 
 ## Il2cppDumper by Perfare
 
