@@ -1,6 +1,6 @@
 # Terraria-Mobile-NMod
 
-Terraria mobile mod based on il2cpp arm64 inlinehook
+Terraria mobile mod
 
 ## Il2cppDumper by Perfare
 
