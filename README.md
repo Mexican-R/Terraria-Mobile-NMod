@@ -10,6 +10,6 @@ Terraria mobile native mod
 
 * https://github.com/byteandahalf/MCPE-NativeMods/wiki
 
-## QQ group
+## QQ
 
-* 749720883
+* 3382717920
